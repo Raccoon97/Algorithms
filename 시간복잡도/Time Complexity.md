@@ -39,6 +39,7 @@
 - O(n2)
 - O(2n)
 
-Image:
+![](https://github.com/Raccoon97/Algorithms/blob/main/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84/Big-O-Complexity-Chart.png)
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+# O(1)
+- O(1) 은 일정한 복잡도( Constant Complexity ) 라고 하며, 입력값이 증가하더라도 시간이 늘어나지 않는다.
