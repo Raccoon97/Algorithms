@@ -39,7 +39,8 @@
 - O(n2)
 - O(2n)
 
-![](https://github.com/Raccoon97/Algorithms/blob/main/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84/Big-O-Complexity-Chart.png)
+![](https://github.com/Raccoon97/Algorithms/blob/main/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84/Img/Big-O-Complexity-Chart.png)
 
 # O(1)
 - O(1) 은 일정한 복잡도( Constant Complexity ) 라고 하며, 입력값이 증가하더라도 시간이 늘어나지 않는다.
+>- 입력값의 크기와 관계없이, 즉시 출력값을 얻어낼 수 있다. 
