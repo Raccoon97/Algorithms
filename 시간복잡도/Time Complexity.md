@@ -44,3 +44,17 @@
 # O(1)
 - O(1) 은 일정한 복잡도( Constant Complexity ) 라고 하며, 입력값이 증가하더라도 시간이 늘어나지 않는다.
 >- 입력값의 크기와 관계없이, 즉시 출력값을 얻어낼 수 있다. 
+- O(1)의 시간 복잡도를 가진 알고리즘
+```swift
+func timeComplexity_0_1( _ arr: [Int], _ idx: Int ) -> Int {
+	return arr[idx]
+}
+
+let arr: Array<Int> = [1, 2, 3, 4, 5]
+let index: Int = 1
+let result = timeComplexity_0_1(arr, index)
+print(result)
+
+// 이 알고리즘에선 입력값의 크기가 아무리 커져도 즉시 출력값을 얻어낼 수 있다.
+// arr의 길이가 100만이라도 즉시 해당 index에 접근해 값을 반환할 수 있다.
+```
