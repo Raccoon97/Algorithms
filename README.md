@@ -11,8 +11,8 @@
 >>- 중간의 경우를 고려한 경우
 >>- 최악의 경우를 고려한 경우
 >>- Big-O 표기법의 종류
->>- O(1) == Constant Complexity
->>- O(log n) == Logarithmic Complexity
->>- O(n) == Linear Comlexity
->>- O(n2) == Quadratic Complexity
->>- O(2n) == Exponential Complexity
+>>>- O(1) == Constant Complexity
+>>>- O(log n) == Logarithmic Complexity
+>>>- O(n) == Linear Comlexity
+>>>- O(n2) == Quadratic Complexity
+>>>- O(2n) == Exponential Complexity
