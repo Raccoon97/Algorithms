@@ -1,3 +1,13 @@
+# 🏠   [Go Main](https://github.com/Raccoon97/Algorithms)   🏠
+- [Time Complexity ( 시간 복잡도 )](https://github.com/Raccoon97/Algorithms/blob/main/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84/Time%20Complexity.md#time-complexity--%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84-)
+- [Big-O 표기법](https://github.com/Raccoon97/Algorithms/blob/main/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84/Time%20Complexity.md#big-o-%ED%91%9C%EA%B8%B0%EB%B2%95)
+- [O(1)](https://github.com/Raccoon97/Algorithms/blob/main/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84/Time%20Complexity.md#o1)
+- [O(log n)](https://github.com/Raccoon97/Algorithms/blob/main/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84/Time%20Complexity.md#olog-n)
+- [O(n)](https://github.com/Raccoon97/Algorithms/blob/main/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84/Time%20Complexity.md#on)
+- [O(n2)](https://github.com/Raccoon97/Algorithms/blob/main/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84/Time%20Complexity.md#on2)
+- [O(2n)](https://github.com/Raccoon97/Algorithms/blob/main/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84/Time%20Complexity.md#o2n)
+
+
 # Time Complexity ( 시간 복잡도 )
 ### 효율적인 문제 해결법  
 - 문제의 해답을 찾는 것도 중요하지만, 효율적인 방법으로 문제를 해결했는지도 중요하다.<br>
